@@ -1,3 +1,5 @@
+import "./style.css";
+
 function copy(str: string) {
   const listener = (event: any) => {
     event.clipboardData.setData("text/plain", str);
