@@ -4,6 +4,10 @@ This extension is used to copy the markdown link format and Extension to copy th
 
 ## install
 
+https://chrome.google.com/webstore/detail/copy-markdown-and-hatena/cdeombmhokoiinckjacbjcpdabippeim
+
+## manual install
+
 - download
 
 Download [copy-markdown-and-hatenablog-embed-link-v1.0.0.tar.gz](https://github.com/swfz/chrome-extension-copy-markdown-and-hatenablog-embed-link/releases/download/v1.0.0/copy-markdown-and-hatenablog-embed-link-v1.0.0.tar.gz)
