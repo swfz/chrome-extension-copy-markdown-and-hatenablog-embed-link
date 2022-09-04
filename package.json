@@ -14,7 +14,7 @@
   "devDependencies": {
     "@crxjs/vite-plugin": "1.0.14",
     "@types/chrome": "0.0.195",
-    "@types/react": "18.0.17",
+    "@types/react": "18.0.18",
     "@types/react-dom": "18.0.6",
     "@vitejs/plugin-react": "2.0.1",
     "rollup-plugin-chrome-extension": "4.0.1-25",
