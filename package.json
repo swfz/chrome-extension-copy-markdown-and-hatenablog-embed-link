@@ -8,14 +8,14 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "react": "18.3.1",
-    "react-dom": "18.3.1"
+    "react": "19.2.3",
+    "react-dom": "19.2.3"
   },
   "devDependencies": {
     "@crxjs/vite-plugin": "1.0.14",
     "@types/chrome": "0.0.281",
-    "@types/react": "18.3.10",
-    "@types/react-dom": "18.3.0",
+    "@types/react": "19.2.7",
+    "@types/react-dom": "19.2.3",
     "@vitejs/plugin-react": "4.3.3",
     "rollup-plugin-chrome-extension": "4.0.1-25",
     "typescript": "5.6.2",
