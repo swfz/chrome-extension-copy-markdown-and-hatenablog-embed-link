@@ -16,7 +16,7 @@
     "@types/chrome": "0.0.281",
     "@types/react": "18.3.10",
     "@types/react-dom": "18.3.0",
-    "@vitejs/plugin-react": "4.3.3",
+    "@vitejs/plugin-react": "4.7.0",
     "rollup-plugin-chrome-extension": "4.0.1-25",
     "typescript": "5.6.2",
     "vite": "5.4.11"
