@@ -891,10 +891,10 @@
   dependencies:
     "@babel/types" "^7.20.7"
 
-"@types/chrome@0.1.40":
-  version "0.1.40"
-  resolved "https://registry.yarnpkg.com/@types/chrome/-/chrome-0.1.40.tgz#9d863d37e53d560d8d08a09e29862f8e2d421cdb"
-  integrity sha512-UnfyRAe8ORu9HSuTH0EqyOEUin3JrWW9Nl/gDXezNfTUrfIoxw+WRZgKOxGz0t5BnjbfXBnS2eCYfW2PxH1wcA==
+"@types/chrome@0.3.0":
+  version "0.3.0"
+  resolved "https://registry.yarnpkg.com/@types/chrome/-/chrome-0.3.0.tgz#2fd11a5b0d5e16000291fda1d12de00a51997b5a"
+  integrity sha512-HPAMKyJwUnNJdVsxgypwvIStlwRhhaLnxgEwKIB99oOcffJrC4UMeD5xseVoBwDinSkr690DCBaAtSYdK6M1qw==
   dependencies:
     "@types/filesystem" "*"
     "@types/har-format" "*"
